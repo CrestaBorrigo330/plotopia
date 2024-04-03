@@ -1,0 +1,48 @@
+{
+  "name": "plotopia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/plotopia.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/plotopia/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/plotopia#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-string": "^1.0.7",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "octokit": "^3.1.2",
+    "uuid": "^9.0.1",
+    "vue": "^3.4.21",
+    "svg.js": "^1.0.0",
+    "echarts": "^1.0.0",
+    "highcharts": "^1.0.0",
+    "roughjs": "^1.0.0",
+    "flot": "^1.0.0",
+    "frappe-charts": "^1.0.0",
+    "cyto-editor": "^1.0.0",
+    "cyto-tracker": "^1.0.0",
+    "cyto-logger": "^1.0.0",
+    "cyto-simulator": "^1.0.0",
+    "cyto-inspector": "^1.0.0"
+  }
+}
